@@ -7,5 +7,5 @@
 
 <div style="display: inline_block"><br>
   <img align="right" alt="Vini-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="right" alt="PC GIF" src="https://media.giphy.com/media/WPtWaxuzyf5awJYb3m/giphy.gif" width="100"/>
+  <img align="right" alt="PC GIF" src="https://media.giphy.com/media/WPtWaxuzyf5awJYb3m/giphy.gif" width="100"/>
 </div>
