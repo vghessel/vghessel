@@ -1,9 +1,8 @@
 ## Vinicius Gerlach Hessel
 
 <div>
-<a href="https://github.com/vghessel">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vghessel&layout=compact&langs_count=7&theme=dark"/>
-
+  <a href="https://github.com/vghessel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vghessel&layout=compact&langs_count=7&theme=dark"/>
   <img align=right height="260" src="octocat-1674147594627.png">
 </div>
 
