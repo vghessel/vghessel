@@ -1,4 +1,4 @@
-## Vinicius Gerlach Hessel
+## Hessel
 
 <div>
   <a href="https://github.com/vghessel">
