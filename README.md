@@ -2,9 +2,9 @@
 
 <div>
   <a href="https://github.com/vghessel">
-  <!-<img height="180em" src="https://github-readme-stats-ten-rho-19.vercel.app/api/top-langs/?username=vghessel&layout=compact&langs_count=7&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vghessel&layout=compact&langs_count=7&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vghessel&layout=compact&theme=dark"/>
+  <!-<img height="180em" src="https://github-readme-stats-ten-rho-19.vercel.app/api/top-langs/?username=vghessel&layout=compact&langs_count=7&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vghessel&layout=compact&langs_count=7&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vghessel&layout=compact&theme=merko"/>
   <!--<h3 align=left height="260">I use <img align="center" alt="Vini-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" /> BTW</h3> -->
 </div>
 <br>
