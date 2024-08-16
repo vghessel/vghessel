@@ -1,11 +1,8 @@
 ## Hessel
 
 <div>
-  <a href="https://github.com/vghessel">
-  <!-<img height="180em" src="https://github-readme-stats-ten-rho-19.vercel.app/api/top-langs/?username=vghessel&layout=compact&langs_count=7&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vghessel&layout=compact&langs_count=7&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vghessel&layout=compact&theme=dark"/>
-  <!--<h3 align=left height="260">I use <img align="center" alt="Vini-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" /> BTW</h3> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=vghessel&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vghessel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 <br>
 
@@ -16,14 +13,23 @@
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
       <p><b><i>Always studying:</i></b></p>
-      <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      <img align="center" alt="Vini-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
-      <img align="center" alt="Vini-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-      <img align="center" alt="Vini-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">
-      <img align="center" alt="Vini-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
-      <img align="center" alt="Vini-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-      <img align="center" alt="Vini-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-      <img align="center" alt="Vini-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
+      <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
     </td>
   </tr>
 </table>
